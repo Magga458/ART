@@ -1,1 +1,54 @@
 theme: jekyll-theme-architect
+<head>
+<html>
+  <head>
+    <link rel="stylesheet"href="https://fonts.googleapis.com/css?family=Tangerine">
+    <style>
+       </style>
+  </head>
+<body>
+	<div id="wrapper">
+	<header>
+	<h1>Photography / Art</h1>
+		<nav>
+		   <ul>
+			    <li><a href="">Home</a></li>
+			    <li><a href="">About</a></li>
+			    <li><a href="">Products</a></li>
+			    <li><a href="">Services</a></li>
+			    <li><a href="">Contact</a></li>
+		  </ul>
+		</nav>
+	</header>
+  <body>
+    <div>Making the World  Beautiful!</div>
+  </body>
+</html>
+	<title> | Photography| </title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" href="main.css">
+</head>
+<aside>
+	<p>The sidebar content</p>
+		<p>The sidebar content</p>
+		<p>The sidebar content</p>
+		<p>The sidebar content</p>
+		<p>The sidebar content</p>
+		<p>The sidebar content</p>
+		<p>The sidebar content</p>
+	</aside>
+	<section>
+	</section>
+	
+	
+	<section>	
+		<article>
+			<h2>Article One Heading</h2>
+			<p>Article One content</p>
+		</article>
+	</section>
+	<footer>
+	<p>Copyright @2018 All Rights Reserved</p>
+	</footer>
+</body>
+</html>
